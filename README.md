@@ -65,5 +65,5 @@ Course: Communication Protocols Course
      	 
 ## DIFFICULTIES
     I had some difficulties because I have not correctly allocated some fields
-   and there were a lot of problems with how pointer arithmetics works. 
+    and there were a lot of problems with how pointer arithmetics works. 
 

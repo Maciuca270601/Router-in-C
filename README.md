@@ -60,7 +60,7 @@ Course: Communication Protocols Course
     If the next hop is not saved in cache, then send an ARP Request in order
     to obtain the mac asociated with the next-hop.
     (In order to build an ARP Request, all the headers have to be build again
-    + use the send_arp_request function)
+    use the send_arp_request function)
     If it was in the cache, then send the entry normally forward.
      	 
 ## DIFFICULTIES
